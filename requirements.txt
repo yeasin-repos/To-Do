@@ -7,7 +7,7 @@ charset-normalizer==3.3.2
 colorama==0.4.6
 decorator==4.4.2
 distlib==0.3.8
-Django==5.0.1
+Django==4.2.4
 docutils==0.20.1
 filelock==3.13.1
 future==0.18.3
